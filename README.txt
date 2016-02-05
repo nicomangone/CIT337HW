@@ -1,0 +1,1 @@
+The goal of this assignment is to teach you version control system GIT using various tutroials available on gitimmersion.com.
